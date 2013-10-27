@@ -382,7 +382,7 @@ function DrawSankey(map)
     DrawPath(link);  
     AddNode(node);
     DrawNode(node);
-    DragNode(node,link);
+    //DragNode(node,link);
 }
 
 
