@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="This is Arvind's resume">
+		<meta name="keywords" content="Arvind Resume PSD Developer Principal">
+		<meta name="author" content="Arvind">
+
+		<title>Arvind - Principal Software Developer</title>
+
+		<!-- Styles
+		================================================== -->
+		<link rel="stylesheet" type="text/css" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:400,600">
+		<link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap-responsive.min.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="css/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="css/derek.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="css/custom.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="css/sankey.css">
+		<link rel="shortcut icon" href="css/favicon.ico">
+
+		<!-- IE support
+		================================================== -->
+		<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+			<script src="js/css3-mediaqueries.js"></script>
+		<![endif]-->
+		<!--[if IE 7]>
+			<link rel="stylesheet" href="css/font-awesome-ie7.min.css">
+		<![endif]-->
+	</head>
+
+	<body>
+		<div class="container-fluid wrapper">
+
+			<!-- Heading 
+			================================================== -->
+			<div class="row-fluid heading">
+				
+				<div class="span8">
+					<img class="my-picture" src="img/arvind.png" alt="Photo of Arvind">
+					<h1 class="my-name">ARVIND</h1>
+					<h2 class="my-profession">Principal Software Developer</h2>
+					<p class="my-message">
+						<i class="icon-comment-alt"></i>&nbsp;Welcome! This is a summary snapshot of my resume. 
+						A detailed narrative is always available in a downloadable word format [<a class="my-tooltip" href="#" data-original-title="Download Resume"><i class="icon-download-alt"></i></a>] Reach me at  
+						469.348.4666 or parvind_15@hotmail.com
+					</p>
+				</div>
+
+				<div class="span4">
+          <h2 class="my-services">
+            <i class="icon-cogs"></i>&nbsp;Summary
+            <a class="my-tooltip" href="#" data-original-title="Download Resume">
+              <i class="icon-download-alt"></i>
+            </a>
+          </h2>
+          <p class="my-servicetext">
+            I am a builder - I can build your team's vision, taking it to the market with superior quality. I am experienced - I understand
+            how Business works, IT operates and executes. I am a team player - I colloborate with lot of people with diverse backgrounds. 
+          </p>
+				</div>
+
+			</div>
+
+	<h3 class="my-caption"><i class="icon-bar-chart"></i><span class="allgclass">CAREER</span>
+	<span class="pull-right">
+		<span emp="Liberty Mutual" class="empgclass">Liberty Mutual</span>&nbsp;
+	<span emp="Safeco" class="empgclass">Safeco</span>&nbsp;
+	<span emp="Corillian" class="empgclass">Corillian</span>&nbsp;
+	<span emp="Verizon" class="empgclass">Verizon</span>&nbsp;
+	<span toolkit="Toolkit" class="toolgclass"><i class="icon-wrench"></i>Toolkit</span>&nbsp;
+	</span></h3>
+	<div class="row-fluid">
+	<div class="span12">
+	<p id="chart"></p>
+	</div>
+	</div>
+			<!-- Resume 
+			================================================== -->
+			<div class="row-fluid resume">
+
+				<!-- column 1 -->
+				<div class="span4">
+					<h3 class="my-caption">Education</h3>
+					<h4 class="my-activity">M.S. Computer Science and Engineering</h4>
+					<h5 class="my-venture">University of Texas, Arlington<span>2000 - 2003</span></h5>
+					<h4 class="my-activity">B.S. Architecture</h4>
+					<h5 class="my-venture">Anna University, Chennai<span>1994 - 1999</span></h5>
+
+					<h3 class="my-caption">Awards &amp; Certifications</h3>
+					<h4 class="my-activity">ACE Award - Liberty Mutual</h4>
+					<h5 class="my-venture">Advancing Customer Experience <span>2013</span></h5>
+					<h4 class="my-activity">ACE Award - Liberty Mutual</h4>
+					<h5 class="my-venture">Advancing Customer Experience <span>2012</span></h5>
+					<h4 class="my-activity">Golden Turnkey Award - Avanade/Adea/Verizon</h4>
+					<h5 class="my-venture">Quality Code <span>2004</span></h5>
+					<h4 class="my-activity">Microsoft Certified Professional Developer</h4>
+					<h5 class="my-venture">Certification <span>2003</span></h5>
+
+
+				</div>
+
+				<!-- column 2 -->
+				<div class="span4">
+					<h3 class="my-caption">Employment </h3>
+					<h4 class="my-activity">Principal Software Dev.<svg style="float: right; margin-top:5px;" width="40%" height="10">
+					<rect x="60%" y="0" width="40%" height="50" fill="#a69600" />
+					</svg></h4>
+					<h5 class="my-venture">Liberty Mutual <span>Jan 09 - Present</span></h5>
+					<p  class="my-specifics">
+						Designed, Developed and Maintained highly scalable and complex Insurance applications. Led several
+						full cycle projects from inception to golden roll out. Developed Mobile strategy road map for 
+						SalesForce platform.
+					</p>
+					<h4 class="my-activity">Application Dev. Lead<svg style="float: right; margin-top:5px;" width="40%" height="10">
+					<rect x="80%" y="0" width="20%" height="50" fill="#fff273" />
+					</svg></h4>
+					<h5 class="my-venture">Safeco Insurance <span>Jun 07 - Jan 09</span></h5>
+					<p  class="my-specifics">
+						Led several refactor projects to improve health and performance of applications. Member of core team that manages
+						Quote and Issue Framework.
+					</p>
+
+					<h4 class="my-activity">Sr. Software Lead Dev.<svg style="float: right; margin-top:5px;" width="40%" height="10">
+					<rect x="80%" y="0" width="20%" height="50" fill="#b1f100" />
+					</svg></h4>
+					<h5 class="my-venture">Corillian/CEI <span>Aug 05 - May 07</span></h5>
+					<p  class="my-specifics">
+						Designed and developed Campaign Manager for BECU/SCCU. Led implementation of Captial One / Hibernia Banking 
+						and Online Account Origination systems.
+					</p>
+					
+					<h4 class="my-activity">Sr. Software Dev.<svg style="float: right; margin-top:5px;" width="40%" height="10">
+					<rect x="80%" y="0" width="20%" height="50" fill="#739d00" />
+					</svg></h4>
+					<h5 class="my-venture">Verizon/Ecom. <span>Nov 03 - July 05</span></h5>
+					<p  class="my-specifics">
+						Designed and developed Data usage Arbor framework into Retail COFEE Billing platform. Aided Performance improvement. 
+						Conceptualized and prototyped Executuve Dashboard of COFEE platform.
+					</p>
+				</div>
+
+				<!-- column 3 -->
+				<div class="span4">
+					<h3 class="my-caption">IT Skill Set</h3>
+					<h4 class="my-skill">
+						C#, ASP.NET, Javascript, SQL, HTML5, CSS3.
+					</h4>
+					<h4 class="my-skill">
+						Design, Develop, Maintain, Feedback.
+						
+					</h4>
+					<h4 class="my-skill">
+						Consult, Strategize, Standardize, Mentor.
+					</h4>
+					<h4 class="my-skill">
+						Zero Defects! (Cited 3+ years annual review)
+					</h4>
+
+					<h3 class="my-caption">Toolkit</h3>
+					<h4 class="my-skill">
+						VS 2013, SQL Server Studio, Eclipse, Chrome, Visio, Office-*, 
+						Informatica, DTS, SoapUI, RTC. ClearCase. SVN, TFS, Rational Rose,
+						IBM Page Analyzer, YSlow, Fiddler, Profiler, Windbg
+					</h4>
+				</div>
+
+			</div><!-- end of resume -->
+
+			<!-- Portfolio 
+			================================================== -->
+			<h3 class="my-caption">Portfolio</h3>
+
+			<div id="portfolio">
+				
+				<div class="portfolio-item">
+					<div class="portfolio-details">
+						<h4>Mobile Strategy - Salesforce</h4>
+						<img src="img/mock-up-image-portfolio-item.png" alt="your image description">
+						<p>
+							Developed a suitable mobile strategy for Salesforce users within Liberty Mutual.
+						</p>
+						
+					</div>
+				</div>
+
+				<div class="portfolio-item">
+					<div class="portfolio-details">
+						<h4>CRM Data Analytics</h4>
+						<p>
+							Analyzed 100s of objects, 2M+ records to get a perspective of Salesforce usage at Liberty Mutual.
+						</p>
+						<p>
+							- Data Gathering<br>
+							- Analysis<br>
+							- Document and Presentation
+						</p>
+						<p>
+							It helps our Business and IT executives see a clear picture and derive a road map. 
+						</p>
+					</div>
+				</div>
+
+				<div class="portfolio-item">
+					<img src="img/mock-up-image-portfolio-item.png" alt="your image description">
+					<div class="portfolio-details">
+						<h4>CEM Closed Loop Feedback</h4>
+						<p>
+							Gathered data from sales, service and operations to solicit 
+							customer feedback on recent interactions.
+						</p>
+						<p>
+							Closed the loop, by fixing detractors and rewarding promoters.
+						</p>
+						<p>
+							Received Advancing Customer Experience award of this project.
+						</p>
+						<img src="img/mock-up-image-portfolio-item.png" alt="your image description">
+						<p class="portfolio-links">
+							<a href="#" target="_blank">
+								<i class="icon-signin"></i>&nbsp;Agency
+							</a>
+						</p>
+					</div>
+				</div>
+
+				<div class="portfolio-item">
+					<div class="portfolio-details">
+						<h4>Y-Gen Rating Algorithm Refactor</h4>
+						<p>
+							Refactored program generating program (SQL) that models rates for 30M+ rows  
+						</p>
+						<img src="img/mock-up-image-portfolio-item.png" alt="your image description">
+						<p>
+							- Recommended data partition according to usage<br>
+							- Refactored into easy to maintain code<br>
+						</p>
+						<p>
+							Recommended several upgrades to leverage latest of parallel processing techniques.
+						</p>
+					</div>
+				</div>
+
+				<div class="portfolio-item">
+					<img src="img/mock-up-image-portfolio-item.png" alt="your image description">
+					<div class="portfolio-details">
+						<h4>Online Account Origination - Capital One</h4>
+						<p>
+							Designed the platform, databases and integrated with current Capital One / Hibernia platform.
+						</p>
+						<p class="portfolio-links">
+							<a href="#" target="_blank">
+								<i class="icon-download-alt"></i>&nbsp;.zip&nbsp;|&nbsp;
+							</a>
+							<a href="#" target="_blank">
+								<i class="icon-picture"></i>&nbsp;Product
+							</a>
+						</p>
+					</div>
+				</div>
+
+				<div class="portfolio-item">
+					<img src="img/mock-up-image-portfolio-item.png" alt="your image description">
+					<div class="portfolio-details">
+						<h4>Sharepoint Portal</h4>
+						<p>
+							Envisioned, designed and setup a SharePoint 2000 Portal for team collaboration.
+						</p>
+					</div>
+				</div>
+
+				<div class="portfolio-item">
+					<div class="portfolio-details">
+						<h4>Compliance & Protocols</h4>
+						<p>
+							Implemented several Protocols level applications and recommended design standards
+							for scale, portability and maintenance.
+						</p>
+						<p>
+							<a href="#" target="_blank">
+								<i class="icon-mobile-phone"></i>&nbsp;App Store
+							</a>
+						</p>
+					</div>
+				</div>
+
+			</div><!-- end of portfolio -->
+
+			<!-- Contact 
+			================================================== -->
+			<h3 class="my-caption">Location</h3>
+
+			<!-- google map container -->
+			<div id="my-location"></div>
+
+			<div class="row-fluid contact">
+
+				<!--column 1 -->
+				<div class="span4">
+					
+					<h3 class="my-caption">Personal Information</h3>
+					<h4 class="my-info">Birthday <span>Month DD, YYYY</span></h4>
+					<h4 class="my-info">Address <span>Street</span></h4>
+					<h4 class="my-info">&nbsp;<span>City</span></h4>
+					<h4 class="my-info">&nbsp;<span>State, Zip Code</span></h4>
+
+				</div>
+
+				<!--column 2 -->
+				<div class="span4">
+					
+					<h3 class="my-caption">Contact Me</h3>
+					<h4 class="my-info">
+						<i class="icon-phone"></i> Phone
+						<span>123.456.7890</span>
+					</h4>
+					<h4 class="my-info">
+						<i class="icon-signal"></i> Cell
+						<span>012.345.6789</span>
+					</h4>
+					<h4 class="my-info">
+						<i class="icon-envelope"></i> Email
+						<span>
+							<a href="mailto:#">your@email.com</a>
+						</span>
+					</h4>
+					<h4 class="my-info">
+						<i class="icon-globe"></i> Website / Blog
+						<span>
+							<a href="#" target="_blank">your-domain.com</a>
+						</span>
+					</h4>
+
+				</div>
+
+				<!--column 3 -->
+				<div class="span4">
+
+					<h3 class="my-caption">Follow Me</h3>
+					<h4 class="my-info">
+						<i class="icon-google-plus"></i>
+						<span>
+							<a href="#" target="_blank">Google+</a>
+						</span>
+					</h4>
+					<h4 class="my-info">
+						<i class="icon-facebook"></i>
+						<span>
+							<a href="#" target="_blank">facebook</a>
+						</span>
+					</h4>
+					<h4 class="my-info">
+						<i class="icon-twitter"></i>
+						<span>
+							<a href="#" target="_blank">Twitter</a>
+						</span>
+					</h4>
+					<h4 class="my-info">
+						<i class="icon-linkedin"></i>
+						<span>
+							<a href="#" target="_blank">LinkedIn</a>
+						</span>
+					</h4>
+				</div>
+
+			</div><!-- end of contact -->
+
+		</div><!-- end of container -->
+
+		<!-- Javascript 
+		================================================== -->
+		<script src="http://maps.googleapis.com/maps/api/js?sensor=false" type="text/javascript"></script>
+		<script src="js/jquery-1.9.1.min.js"></script>
+		<script src="js/jquery.masonry.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/derek.js"></script>
+		<script src="js/d3.v3.min.js"></script>
+		<script src="js/sankey.js"></script>
+		<script src="js/snapshot.js"></script>
+		
+
+	</body>
+</html>

@@ -1,0 +1,764 @@
+{
+    "Name": "Arvind Palaniswamy",
+    "Education": [
+        {
+            "DegreeAttained": "MS",
+            "Specialization": "Computer Science",
+            "School": "University of Texas at Arlington",
+            "EducationDuration": {
+                "Start": "2000-01-01",
+                "End": "2003-06-01"
+            }
+        },
+        {
+            "DegreeAttained": "BS",
+            "Specialization": "Architecture",
+            "School": "Anna University",
+            "EducationDuration": {
+                "Start": "1994-08-01",
+                "End": "1999-08-01"
+            }
+        }
+    ],
+    "Jobs": [
+        {
+            "JobCompany": "Liberty Mutual",
+            "JobTitle": "Principal Software Developer",
+            "JobDuration": {
+                "Start": "2011-01-01",
+                "End": "present"
+            },
+            "JobProjects": [
+                {
+                    "ProjectName": "SalesForce Mobile Strategy",
+                    "ProjectRole": "Principal",
+                    "ProjectTeamSize": "Small",
+                    "ProjectHadReports": false,
+                    "ProjectDevelopmentDuration": {
+                        "Start": "2013-10-01",
+                        "End": "Present"
+                    },
+                    "ProjectMaintenanceDuration": {
+                        "Start": "2011-01-01",
+                        "End": "present"
+                    },
+                    "ProjectTechnologyTags": [
+                        {
+                            "ProjectActivityTag": "Strategy",
+                            "Tag": "Case Study",
+                            "Percentage": "100"
+                        },
+                        {
+                            "ProjectActivityTag": "Strategy",
+                            "Tag": "Vision",
+                            "Percentage": "100"
+                        },
+                        {
+                            "ProjectActivityTag": "Strategy",
+                            "Tag": "Standards",
+                            "Percentage": "100"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "APEX",
+                            "Percentage": "50"
+                        }
+                    ],
+                    "ProjectToolkitTags": [],
+                    "ProjectPlatformTags": [
+                        {
+                            "ProjectActivityTag": "Platform",
+                            "Tag": "SalesForce",
+                            "Percentage": "60"
+                        }
+                    ]
+                },
+                {
+                    "ProjectName": "Closed Loop Feedback",
+                    "ProjectRole": "Lead",
+                    "ProjectTeamSize": "Large",
+                    "ProjectHadReports": true,
+                    "ProjectDevelopmentDuration": {
+                        "Start": "2011-01-01",
+                        "End": "2011-11-01"
+                    },
+                    "ProjectMaintenanceDuration": {
+                        "Start": "2011-01-01",
+                        "End": "present"
+                    },
+                    "ProjectTechnologyTags": [
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "C#",
+                            "Percentage": "100"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "Javascript",
+                            "Percentage": "100"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "ASP.NET",
+                            "Percentage": "100"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "sFTP",
+                            "Percentage": "50"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "SQL",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "SCM",
+                            "Percentage": "20"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "TDD",
+                            "Percentage": "50"
+                        },
+                        {
+                            "ProjectActivityTag": "Design",
+                            "Tag": "Visio",
+                            "Percentage": "50"
+                        }
+                    ],
+                    "ProjectToolkitTags": [
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "Terradata",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "Informatica",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "Sharepoint",
+                            "Percentage": "30"
+                        }
+                    ],
+                    "ProjectPlatformTags": [
+                        {
+                            "ProjectActivityTag": "Platform",
+                            "Tag": "Mainframe",
+                            "Percentage": "20"
+                        },
+                        {
+                            "ProjectActivityTag": "Platform",
+                            "Tag": "Windows Server",
+                            "Percentage": "80"
+                        },
+                        {
+                            "ProjectActivityTag": "Platform",
+                            "Tag": "SalesForce",
+                            "Percentage": "60"
+                        },
+                        {
+                            "ProjectActivityTag": "Platform",
+                            "Tag": "IVR",
+                            "Percentage": "30"
+                        }
+                    ]
+                },
+                {
+                    "ProjectName": "Agency Process Notification",
+                    "ProjectRole": "Lead",
+                    "ProjectTeamSize": "Large",
+                    "ProjectHadReports": true,
+                    "ProjectDevelopmentDuration": {
+                        "Start": "2011-01-01",
+                        "End": "2011-11-01"
+                    },
+                    "ProjectMaintenanceDuration": {
+                        "Start": "2011-01-01",
+                        "End": "present"
+                    },
+                    "ProjectTechnologyTags": [
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "C#",
+                            "Percentage": "100"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "Javascript",
+                            "Percentage": "100"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "ASP.NET",
+                            "Percentage": "100"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "eSMTP",
+                            "Percentage": "50"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "SQL",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "SCM",
+                            "Percentage": "20"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "TDD",
+                            "Percentage": "50"
+                        },
+                        {
+                            "ProjectActivityTag": "Design",
+                            "Tag": "Visio",
+                            "Percentage": "50"
+                        },
+                        {
+                            "ProjectActivityTag": "Design",
+                            "Tag": "DB Design",
+                            "Percentage": "50"
+                        },
+                        {
+                            "ProjectActivityTag": "Design",
+                            "Tag": "App Design",
+                            "Percentage": "50"
+                        },
+                        {
+                            "ProjectActivityTag": "Compliance",
+                            "Tag": "PCI",
+                            "Percentage": "50"
+                        }
+                    ],
+                    "ProjectToolkitTags": [
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "Terradata",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "IBM MQ",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "DB2",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "Sharepoint",
+                            "Percentage": "30"
+                        }
+                    ],
+                    "ProjectPlatformTags": [
+                        {
+                            "ProjectActivityTag": "Platform",
+                            "Tag": "Windows Server",
+                            "Percentage": "80"
+                        },
+                        {
+                            "ProjectActivityTag": "Platform",
+                            "Tag": "IBM WPS",
+                            "Percentage": "60"
+                        },
+                        {
+                            "ProjectActivityTag": "Platform",
+                            "Tag": "Mainframe",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Platform",
+                            "Tag": "Active Directory",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Platform",
+                            "Tag": "Exchange",
+                            "Percentage": "30"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "JobCompany": "Safeco",
+            "JobTitle": "App Dev Lead",
+            "JobDuration": {
+                "Start": "2007-06-01",
+                "End": "2008-12-01"
+            },
+            "JobProjects": [
+                {
+                    "ProjectName": "Safeco.com Portal",
+                    "ProjectRole": "Lead",
+                    "ProjectTeamSize": "Large",
+                    "ProjectHadReports": true,
+                    "ProjectDevelopmentDuration": {
+                        "Start": "2008-01-01",
+                        "End": "2008-07-01"
+                    },
+                    "ProjectMaintenanceDuration": {
+                        "Start": "2008-07-01",
+                        "End": "2008-12-01"
+                    },
+                    "ProjectTechnologyTags": [
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "ASP.NET",
+                            "Percentage": "70"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "C#",
+                            "Percentage": "70"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "Aqualogic Portal",
+                            "Percentage": "50"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "SQL",
+                            "Percentage": "50"
+                        },
+                        {
+                            "ProjectActivityTag": "Maintain",
+                            "Tag": "Defects",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Relations",
+                            "Tag": "Vendor",
+                            "Percentage": "20"
+                        }
+                    ],
+                    "ProjectToolkitTags": [
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "BEA Weblogic Portal",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "SQL Server",
+                            "Percentage": "30"
+                        }
+                    ],
+                    "ProjectPlatformTags": [
+                        {
+                            "ProjectActivityTag": "Platform",
+                            "Tag": "Windows Server",
+                            "Percentage": "60"
+                        }
+                    ]
+                },
+                {
+                    "ProjectName": "SQL Rate Model Refactor",
+                    "ProjectRole": "Lead",
+                    "ProjectTeamSize": "Small",
+                    "ProjectHadReports": 0,
+                    "ProjectDevelopmentDuration": {
+                        "Start": "2010-09-01",
+                        "End": "2011-03-01"
+                    },
+                    "ProjectMaintenanceDuration": {
+                        "Start": "none",
+                        "End": "none"
+                    },
+                    "ProjectTechnologyTags": [
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "SQL",
+                            "Percentage": "50"
+                        }
+                    ],
+                    "ProjectToolkitTags": [
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "SQL Server",
+                            "Percentage": "30"
+                        }
+                    ],
+                    "ProjectPlatformTags": [
+                        {
+                            "ProjectActivityTag": "Platform",
+                            "Tag": "Windows Server",
+                            "Percentage": "80"
+                        }
+                    ]
+                },
+                {
+                    "ProjectName": "SQL State Database Refactor",
+                    "ProjectRole": "Developer",
+                    "ProjectTeamSize": "Medium",
+                    "ProjectHadReports": 0,
+                    "ProjectDevelopmentDuration": {
+                        "Start": "2007-09-01",
+                        "End": "2008-06-01"
+                    },
+                    "ProjectMaintenanceDuration": {
+                        "Start": "none",
+                        "End": "none"
+                    },
+                    "ProjectTechnologyTags": [
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "SQL",
+                            "Percentage": "80"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "C#",
+                            "Percentage": "20"
+                        }
+                    ],
+                    "ProjectToolkitTags": [
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "SQL Server",
+                            "Percentage": "30"
+                        }
+                    ],
+                    "ProjectPlatformTags": [
+                        {
+                            "ProjectActivityTag": "Platform",
+                            "Tag": "Windows Server",
+                            "Percentage": "80"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "JobCompany": "Corillian",
+            "JobTitle": "Sr. Software Developer",
+            "JobDuration": {
+                "Start": "2005-08-01",
+                "End": "2007-05-01"
+            },
+            "JobProjects": [
+                {
+                    "ProjectName": "Capital One / Hibernia Portal",
+                    "ProjectRole": "Lead",
+                    "ProjectTeamSize": "Large",
+                    "ProjectHadReports": true,
+                    "ProjectDevelopmentDuration": {
+                        "Start": "2005-09-01",
+                        "End": "2007-02-01"
+                    },
+                    "ProjectMaintenanceDuration": {
+                        "Start": "2006-05-01",
+                        "End": "2007-05-01"
+                    },
+                    "ProjectTechnologyTags": [
+                        {
+                            "ProjectActivityTag": "Design",
+                            "Tag": "App Design",
+                            "Percentage": "70"
+                        },
+                        {
+                            "ProjectActivityTag": "Design",
+                            "Tag": "DB Design",
+                            "Percentage": "70"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "ASP.NET",
+                            "Percentage": "70"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "C#",
+                            "Percentage": "70"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "SOA - WebMethods",
+                            "Percentage": "50"
+                        },
+                        {
+                            "ProjectActivityTag": "Integration",
+                            "Tag": "Vendor - CashEdge",
+                            "Percentage": "50"
+                        },
+                        {
+                            "ProjectActivityTag": "Integration",
+                            "Tag": "Vendor - ImageSoft",
+                            "Percentage": "50"
+                        },
+                        {
+                            "ProjectActivityTag": "Integration",
+                            "Tag": "Acquisition - Hibernia",
+                            "Percentage": "50"
+                        },
+                        {
+                            "ProjectActivityTag": "Maintain",
+                            "Tag": "Defects",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Relations",
+                            "Tag": "Vendor",
+                            "Percentage": "20"
+                        }
+                    ],
+                    "ProjectToolkitTags": [
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "Windows Server",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "Windows Server",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "SoapScope",
+                            "Percentage": "30"
+                        }
+                    ],
+                    "ProjectPlatformTags": [
+                        {
+                            "ProjectActivityTag": "Platform",
+                            "Tag": "Windows Server",
+                            "Percentage": "60"
+                        }
+                    ]
+                },
+                {
+                    "ProjectName": "Capital One Virtual Debit Card",
+                    "ProjectRole": "Lead",
+                    "ProjectTeamSize": "Large",
+                    "ProjectHadReports": true,
+                    "ProjectDevelopmentDuration": {
+                        "Start": "2006-04-01",
+                        "End": "2007-05-01"
+                    },
+                    "ProjectMaintenanceDuration": {
+                        "Start": "none",
+                        "End": "none"
+                    },
+                    "ProjectTechnologyTags": [
+                        {
+                            "ProjectActivityTag": "Design",
+                            "Tag": "App Design",
+                            "Percentage": "70"
+                        },
+                        {
+                            "ProjectActivityTag": "Design",
+                            "Tag": "DB Design",
+                            "Percentage": "70"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "ASP.NET",
+                            "Percentage": "70"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "C#",
+                            "Percentage": "70"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "SOA - WebMethods",
+                            "Percentage": "50"
+                        },
+                        {
+                            "ProjectActivityTag": "Integration",
+                            "Tag": "Vendor - Costco",
+                            "Percentage": "50"
+                        },
+                        {
+                            "ProjectActivityTag": "Maintain",
+                            "Tag": "Defects",
+                            "Percentage": "30"
+                        }
+                    ],
+                    "ProjectToolkitTags": [
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "Windows Server",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "Windows Server",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "SoapScope",
+                            "Percentage": "30"
+                        }
+                    ],
+                    "ProjectPlatformTags": [
+                        {
+                            "ProjectActivityTag": "Platform",
+                            "Tag": "Windows Server",
+                            "Percentage": "60"
+                        }
+                    ]
+                },
+                {
+                    "ProjectName": "BECU Campaign Manager",
+                    "ProjectRole": "Developer",
+                    "ProjectTeamSize": "Small",
+                    "ProjectHadReports": 0,
+                    "ProjectDevelopmentDuration": {
+                        "Start": "2006-12-01",
+                        "End": "2007-04-01"
+                    },
+                    "ProjectMaintenanceDuration": {
+                        "Start": "none",
+                        "End": "none"
+                    },
+                    "ProjectTechnologyTags": [
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "C#",
+                            "Percentage": "50"
+                        },
+                        {
+                            "ProjectActivityTag": "Design",
+                            "Tag": "App Design",
+                            "Percentage": "50"
+                        }
+                    ],
+                    "ProjectToolkitTags": [
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "Rational Rose",
+                            "Percentage": "30"
+                        }
+                    ],
+                    "ProjectPlatformTags": [
+                        {
+                            "ProjectActivityTag": "Platform",
+                            "Tag": "Windows Server",
+                            "Percentage": "80"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "JobCompany": "Verizon",
+            "JobTitle": "Release Lead/Sr. Developer",
+            "JobDuration": {
+                "Start": "2003-12-01",
+                "End": "2005-07-01"
+            },
+            "JobProjects": [
+                {
+                    "ProjectName": "FTTP Billing",
+                    "ProjectRole": "Developer",
+                    "ProjectTeamSize": "Large",
+                    "ProjectHadReports": false,
+                    "ProjectDevelopmentDuration": {
+                        "Start": "2003-12-01",
+                        "End": "2005-07-01"
+                    },
+                    "ProjectMaintenanceDuration": {
+                        "Start": "2004-06-01",
+                        "End": "2005-07-01"
+                    },
+                    "ProjectTechnologyTags": [
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "ASP.NET",
+                            "Percentage": "70"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "C#",
+                            "Percentage": "70"
+                        },
+                        {
+                            "ProjectActivityTag": "Design",
+                            "Tag": "App Design",
+                            "Percentage": "50"
+                        },
+                        {
+                            "ProjectActivityTag": "Develop",
+                            "Tag": "SQL",
+                            "Percentage": "50"
+                        },
+                        {
+                            "ProjectActivityTag": "Maintain",
+                            "Tag": "Performance",
+                            "Percentage": "50"
+                        },
+                        {
+                            "ProjectActivityTag": "Maintain",
+                            "Tag": "Defects",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Strategy",
+                            "Tag": "SharePoint Setup",
+                            "Percentage": "70"
+                        }
+                    ],
+                    "ProjectToolkitTags": [
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "LoadRunner",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "WinRunner",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "DB2",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "Rational Rose",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "SQL Server",
+                            "Percentage": "30"
+                        },
+                        {
+                            "ProjectActivityTag": "Toolkit",
+                            "Tag": "SharePoint",
+                            "Percentage": "30"
+                        }
+                    ],
+                    "ProjectPlatformTags": [
+                        {
+                            "ProjectActivityTag": "Platform",
+                            "Tag": "Windows Server",
+                            "Percentage": "60"
+                        },
+                        {
+                            "ProjectActivityTag": "Platform",
+                            "Tag": "Unix",
+                            "Percentage": "20"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

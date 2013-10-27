@@ -1,0 +1,20 @@
+/*
+** your custom styling goes here
+*/
+.empgclass{
+	cursor:pointer;
+	padding:0 0px 0 20px;
+}
+
+.empgclass > span{
+	text-decoration:underline;
+}
+
+.allgclass{
+	cursor:pointer;
+}
+
+.toolgclass{
+	padding:0 0px 0 20px;
+	cursor:pointer;
+}
