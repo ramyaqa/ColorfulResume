@@ -1,7 +1,7 @@
 
 var fill = d3.scale.ordinal()
     .domain(d3.range(3))
-    .range(["#FFDD89", "#957244", "#F26223"]);
+    .range(["#FFDD89"]);
     
 var chartWidth = parseInt(d3.select("#chart").style("width").replace("px",""),10);
 var margin = {top: 1, right: 1, bottom: 6, left: 1},
@@ -11,13 +11,7 @@ var margin = {top: 1, right: 1, bottom: 6, left: 1},
 var formatNumber = d3.format(",.0f"),
     format = function(d) { return formatNumber(d) + " "; },
     color = d3.scale.category20();
-/*
-var svg = d3.select("#chart").append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-*/
+
 var svg = d3.select("#chart").append("svg")
     .attr("width", "100%")
     .attr("height", "100%")
@@ -38,7 +32,9 @@ var resume = null;
 var redraw = function (){};
 GetMapOnInit();
 
-d3.selectAll(".allgclass").on("click",function(){ redraw = GetMapOnInit; GetMapOnInit();});
+d3.selectAll(".allgclass").on("click",function(){ 
+redraw = GetMapOnInit; GetMapOnInit();}
+);
 
 d3.selectAll(".empgclass").on("click",function(){
 	var companyName = d3.select(this).attr("emp");

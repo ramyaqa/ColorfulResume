@@ -4,6 +4,8 @@
 .empgclass{
 	cursor:pointer;
 	padding:0 0px 0 20px;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 
 .empgclass > span{
@@ -12,9 +14,18 @@
 
 .allgclass{
 	cursor:pointer;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 
 .toolgclass{
 	padding:0 0px 0 20px;
 	cursor:pointer;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.buttonhighlight{
+	background-color: #411D1D;
+	color: #FFFFFF;
 }
