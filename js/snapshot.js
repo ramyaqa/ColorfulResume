@@ -167,7 +167,7 @@ function PruneMap(n,l)
 }
 
 function GetResume(callback){
-	d3.json("arvind.json", function(res){
+	d3.json("testdata/arvind.json", function(res){
 		resume = res;
 		if(resume)
 			if(callback)
